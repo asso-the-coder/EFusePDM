@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=5V_EFuse.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=5V_EFuse.SchDoc|FileName=12V_Efuses1.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=5V_EFuse.SchDoc|FileName=12V_Efuses2.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=5V_EFuse.SchDoc|FileName=Connectors_and_Regs.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=5V_EFuse.SchDoc|FileName=Micro.SchDoc|SheetNumber=2
